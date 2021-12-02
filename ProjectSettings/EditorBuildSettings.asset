@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Day.unity
+    guid: db66cc3ccee10724ea51f752fa40f88b
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Night.unity
+    guid: f0948758a739a1043bde89ffabe5edff
+  - enabled: 1
+    path: Assets/Scenes/Player Info Day.unity
+    guid: 0460453569c348d468062dc640d7d6a8
+  - enabled: 1
+    path: Assets/Scenes/Player Info Night.unity
+    guid: f9ec99b0facb4004d8d1e7d807d88c77
+  - enabled: 1
+    path: Assets/Scenes/Horse Info Day Breed.unity
+    guid: 9353a63422446384f9c035ded427ef2e
+  - enabled: 1
+    path: Assets/Scenes/Horse Info Night Breed.unity
+    guid: 5e1817735fc54a74fbe6615ff060d98e
+  - enabled: 1
+    path: Assets/Scenes/Settings Day.unity
+    guid: 3a2f1e3e5d4af524db7105a27ebbc189
+  - enabled: 1
+    path: Assets/Scenes/Settings Night.unity
+    guid: 2a2fdb5d634b77c4b8a4323408279b9e
+  - enabled: 1
+    path: Assets/Scenes/Slider Day.unity
+    guid: 20652dad575adb146b9393bcaa57f4b7
+  - enabled: 1
+    path: Assets/Scenes/Slider Night.unity
+    guid: 44e5372b2737bbc44a567efde2a93c4e
+  - enabled: 1
+    path: Assets/Scenes/Game Day.unity
+    guid: db74445dad72cd04ea43b4de636595ec
+  - enabled: 1
+    path: Assets/Scenes/Game Night.unity
+    guid: 22ae0655647a1cb4c9de0b91b0b06848
+  - enabled: 1
+    path: Assets/Scenes/Game Over Day.unity
+    guid: 50f0f00fb86998346a45a168cec86d09
+  - enabled: 1
+    path: Assets/Scenes/Game Over Night.unity
+    guid: 98b4cb99787590a418b4ae844aa18805
+  - enabled: 1
+    path: Assets/Scenes/Training Day.unity
+    guid: b508ca78c2f4c514dad3675bac27a6ba
+  - enabled: 1
+    path: Assets/Scenes/Start Screen Night.unity
+    guid: a1fdf00b70f65f14c844f7838e0d7226
+  - enabled: 1
+    path: Assets/Scenes/Training Lose Day.unity
+    guid: af180ffe3bfcfbb46ae8e6fea128e3f7
+  - enabled: 1
+    path: Assets/Scenes/Training Lose Night.unity
+    guid: a15cb292bbbf60e459afcf28970facdd
+  - enabled: 1
+    path: Assets/Scenes/Training Win Night.unity
+    guid: a9d1acc641e1d004192f3d201618ab94
+  - enabled: 1
+    path: Assets/Scenes/Training Win Day.unity
+    guid: 8f13939330cd024479025e95a324f9b7
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Day.unity
+    guid: eeec9cd70c45acb44819b556063f13ff
+  - enabled: 1
+    path: Assets/Scenes/Horse Info Day Misc.unity
+    guid: 0404319f9450f5641931cce9651328e4
+  - enabled: 1
+    path: Assets/Scenes/Horse Info Night Misc.unity
+    guid: b7543848b8a6dfb409367a8ca6894017
+  - enabled: 1
+    path: Assets/Scenes/Training Night.unity
+    guid: 8ef93370880468145a635b64f809a0af
+  - enabled: 1
+    path: Assets/Scenes/Start Screen Day.unity
+    guid: ecc77c14e08917e4a8ecf5c68e47eedb
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Night.unity
+    guid: 17782167a88f0b34687a05a75294ebb6
+  m_configObjects: {}
